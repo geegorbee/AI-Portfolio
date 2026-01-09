@@ -85,7 +85,7 @@ Built for family business (ice cream shop), solving real operational needs. Demo
 **Security Implementation:**
 Documented security architecture including API key management, input validation, and data handling. [See security write-up →](../Cybersecurity-Portfolio/AI-Security/)
 
-**[View Project Repository ->](https://github.com/geegorbee/AI-Portfolio/tree/main/AI-Ordering-System)
+[View Project Repository ->](https://github.com/geegorbee/AI-Portfolio/tree/main/AI-Ordering-System)
 
 ---
 
