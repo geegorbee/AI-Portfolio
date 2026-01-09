@@ -53,7 +53,7 @@ Weak prompts create security risks in AI systems. This tool helps identify promp
 
 ### AI-Powered Ordering System
 
-**Built:** 2024  
+**Built:** 2025  
 **Status:** Functional production application
 
 Natural language ordering system built for a small business using OpenAI's LLM API. Demonstrates practical AI implementation for real-world business automation.
