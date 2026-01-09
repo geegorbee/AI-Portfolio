@@ -85,7 +85,7 @@ Built for family business (ice cream shop), solving real operational needs. Demo
 **Security Implementation:**
 Documented security architecture including API key management, input validation, and data handling. [See security write-up →](../Cybersecurity-Portfolio/AI-Security/)
 
-**Documentation Status:** Detailed write-up in progress
+[**View Project Repository ->](https://github.com/geegorbee/AI-Portfolio/tree/main/AI-Ordering-System)
 
 ---
 
@@ -121,7 +121,7 @@ Security tool enhancement using AI for behavioral analysis beyond traditional pa
   - Practical AI applications
 
 **Practical Experience:**
-- **Telus AI Project** - Prompt engineering for enterprise AI integration (at CRA)
+- **Telus AI Project** - Prompt engineering for enterprise AI integration
 - **AI SWOT Analysis SME** - Evaluated AI operational risks and integration strategies (at CRA)
 
 ---
